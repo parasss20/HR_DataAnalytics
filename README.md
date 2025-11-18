@@ -23,10 +23,11 @@ The following metrics were calculated to assess overall business performance:
 ## 🔗 Dashboard Link & Preview
 This project delivered visualization solutions across three industry-standard tools.
 1. Power BI Dashboard: You can view a static preview of the final dashboard here:
-
+* **[Dashboard Preview Image](https://github.com/parasss20/HR_DataAnalytics/blob/main/dashboard/power_bi_dashboard.png)**
 2. Tableau Dashboard: You can view a static preview of the final dashboard here:
-
+* **[Dashboard Preview Image](https://github.com/parasss20/HR_DataAnalytics/blob/main/dashboard/tableau_dashboard.png)**
 3. Excel Dashboard: You can view a static preview of the final dashboard here:
+* **[Dashboard Preview Image](https://github.com/parasss20/HR_DataAnalytics/blob/main/dashboard/excel_dashboard.png)**
 ## 💡 Conclusion and Key Insights
 This project delivered actionable HR intelligence through validated, multi-platform dashboards.
 1. Critical Risk Segments: Analysis revealed a crisis in young talent retention, evidenced by the $52.63\%$ attrition rate in the Under 25 age group, and a high-volume issue in the Sales Department ($\mathbf{56.12\%}$ of total attrition).
